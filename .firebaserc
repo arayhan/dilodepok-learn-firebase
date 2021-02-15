@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "dilodepok-firebase",
+    "staging": "actions-codelab-8e346"
+  }
+}
